@@ -9,6 +9,8 @@
     - look over project and see what relied on each other. When really stuck, moved to another place
 
     - Find what is being called (and see if its complete)
+    
+    - Make good prs people
 */
 
 
